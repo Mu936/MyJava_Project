@@ -8,8 +8,7 @@ Users can add new tasks, view their current tasks, remove tasks, and exit the ap
 
 ## Features
 
-- Add tasks through a RESTful API endpoint.
-- Retrieve the complete list of tasks via another RESTful API endpoint.
+- Add tasks through and Retrieve the complete list of tasks.
 
 ## Technologies Used
 
